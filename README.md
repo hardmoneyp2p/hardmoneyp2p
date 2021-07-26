@@ -1,4 +1,4 @@
-**Hi, this @hardmoney. We believe Bitcoin is the hardest money on Earth. Our goal is to provide access to it at a competitive price.**
+**Hi, this is @hardmoney. We believe Bitcoin is the hardest money on Earth. Our goal is to provide access to it at a competitive price.**
 
 ## Conditions
 There are some terms and conditions you may be interested in:
