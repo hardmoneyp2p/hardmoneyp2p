@@ -9,7 +9,7 @@ There are some terms and conditions you may be interested in:
 
 
 ## Payment methods
-- SEPA: we do not mind if it is a non-instant SEPA.
+- SEPA: it is recommended to pay via an instant SEPA. Otherwise, a standard SEPA is also accepted.
 - Other payment methods are expected to be available in the future.
 
 
